@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate cyber-security student from the Netherlands</h3>
 
+<img src="CyberSecurityRaccoonBanner.jpg"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robinv87&label=Profile%20views&color=0e75b6&style=flat" alt="robinv87" /> </p>
 
 - 🔭 I’m currently working on [Bash Password Generator](https://github.com/RobinV87/BashPasswordGenerator.git)
