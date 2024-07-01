@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RobinV87?tab=repositories](https://github.com/RobinV87?tab=repositories)
 
-- 💬 Ask me about **Anything D&D, Fallout, Pokemon, Cybercrime**
+- 💬 Ask me about **Anything D&D, Fallout, Pokemon, Cybercrime, Ethical Hacking**
 
 - ⚡ Fun fact **I am a Dungeon Master who uses Python scripts to run my games.**
 
