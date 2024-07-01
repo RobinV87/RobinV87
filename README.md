@@ -3,8 +3,6 @@
 
 <img src="CyberSecurityRaccoonBanner.jpg"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robinv87&label=Profile%20views&color=0e75b6&style=flat" alt="robinv87" /> </p>
-
 - 🔭 I’m currently working on [Bash Password Generator](https://github.com/RobinV87/BashPasswordGenerator.git)
 
 - 🌱 I’m currently learning **Bash, Python, OSINT, Ethical Hacking**
