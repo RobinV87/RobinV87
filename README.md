@@ -13,6 +13,9 @@
 - ⚡ Fun fact **I am a Dungeon Master who uses Python scripts to run my games.**
 
 <h1 alighn="center"> My best projects so far! </h1>
+<h3>Cyber Security</h3>
+- <a href="https://github.com/RobinV87/password_manager/tree/main"> Password Manager</a>
+
 <h3>Bash</h3>
 - <a href="https://github.com/RobinV87/Bash-Dashboard">Bash Dashboard</a>
 - <a href="https://github.com/RobinV87/BashPasswordGenerator"> Password Generator</a>
