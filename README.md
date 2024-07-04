@@ -3,7 +3,6 @@
 
 <img src="CyberSecurityRaccoonBanner.jpg"></img>
 
-- 🔭 I’m currently working on [Bash Password Generator](https://github.com/RobinV87/BashPasswordGenerator.git)
 
 - 🌱 I’m currently learning **Bash, Python, OSINT, Ethical Hacking**
 
