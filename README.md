@@ -13,8 +13,12 @@
 - ⚡ Fun fact **I am a Dungeon Master who uses Python scripts to run my games.**
 
 <h1 alighn="center"> My best projects so far! </h1>
+<h3>Bash</h3>
+- <a href="https://github.com/RobinV87/Bash-Dashboard">Bash Dashboard</a>
+- <a href="https://github.com/RobinV87/BashPasswordGenerator"> Password Generator</a>
 
-- <h4><a href="https://github.com/RobinV87/Bash-Dashboard">Bash Dashboard</a></h4>
+<h3>Python</h3>
+- <a href="https://github.com/RobinV87/ascii_art.py"> ASCII Art Generator</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
